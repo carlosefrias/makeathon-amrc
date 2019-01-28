@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AMRCs automated tour guide</string>
+    <string name="StartTourButtonName">Start tour</string>
+    <string name="GoToStartButtonName">Go to start position</string>
+</resources>
